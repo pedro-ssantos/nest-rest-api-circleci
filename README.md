@@ -7,11 +7,12 @@
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
   
-  <p align="center">[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.</p>
+  <p align="center">
+  <a href="https://github.com/nestjs/nest" >Nest</a>() framework TypeScript starter repository.</p>
     <p align="center">
   
 ## Description
-
+### Source: [Getting started with continuous integration for Nest.js APIs](https://circleci.com/blog/getting-started-with-nestjs-and-automatic-testing/)
 
 
 ## Installation
