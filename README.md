@@ -12,8 +12,8 @@
     <p align="center">
   
 ## Description
-- [ ] Builds a RESTful API with Nest.js.
-- [ ] Writes tests for each API endpoint.
+- [ ] Build a RESTful API with Nest.js.
+- [ ] Write tests for each API endpoint.
 - [ ] automate the testing process using CircleCI.
 
 
