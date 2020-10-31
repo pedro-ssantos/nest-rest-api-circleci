@@ -35,4 +35,3 @@ $ npm run start:prod
 ## License
 
   Nest is [MIT licensed](LICENSE).
-# nest-rest-api-circleci
